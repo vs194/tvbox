@@ -26,4 +26,5 @@ Channel,https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
 惊艳,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
 多拉,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
 松₁,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+松2,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
 松₃,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
